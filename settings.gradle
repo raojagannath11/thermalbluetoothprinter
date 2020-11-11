@@ -1,0 +1,3 @@
+include ':ThermalBluetoothPrinter'
+include ':app'
+rootProject.name = "ThermalBluetoothPrint"
